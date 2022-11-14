@@ -33,7 +33,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1 style={{ color: 'red' }}>Version 0.1.1</h1>
+        <h1 style={{ color: 'red' }}>Version 0.1.0</h1>
         <h1>{status ? 'true' : 'false'}</h1>
         <h3>{message}</h3>
         <p>

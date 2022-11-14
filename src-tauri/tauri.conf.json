@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "update-test",
-    "version": "0.1.1"
+    "version": "0.1.0"
   },
   "tauri": {
     "allowlist": {
@@ -53,7 +53,7 @@
     "updater": {
       "active": true,
       "endpoints": [
-          "https://dev.wonermove.kr/viva/apis/release/{{target}}/{{current_version}}"
+          "https://dev.wondermove.kr/viva/apis/release/{{target}}/{{current_version}}"
       ],
       "dialog": true,
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDI5MkI3NzVCRTlEQkZDNEEKUldSSy9OdnBXM2NyS2FTYXB0eW5EL21TazZxZnJnb1lBNGZjcEdKQThWYU5zb1M5VkxpNHJUWGEK"
